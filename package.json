@@ -1,0 +1,22 @@
+{
+  "name": "avros-sim-land",
+  "version": "1.0.0",
+  "description": "A landownership simulation",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/thaiwash/avros-sim-land.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/thaiwash/avros-sim-land/issues"
+  },
+  "homepage": "https://github.com/thaiwash/avros-sim-land#readme",
+  "dependencies": {
+    "avros": "^0.2.1"
+  }
+}
